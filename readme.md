@@ -9,9 +9,9 @@ Pick a breed from the dropdown list to generate pics and random info about dogs
 
 **Tech used:** HTML, CSS, JavaScript
 
-This app uses a dog picutre generator api to pull up pics of the breed selected, then pulls from an object with random dog facts (i.e. names, age, fun facts) to generate a profile for each dog.
+This app uses a dog picutre generator api to pull up pics of the breed selected, then pulls from an object with random dog facts (i.e. names, age, fun facts) to generate a fictional profile for each dog picture.
 
 
 ## Lessons Learned:
 
-This exercise was used to hone api calling skills. 
+This project was used to hone public api calling skills
